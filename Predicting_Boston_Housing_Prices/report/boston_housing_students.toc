@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}Statistical Analysis and Data Exploration}{3}
+\contentsline {section}{\numberline {2}Evaluating Model Performance}{3}
+\contentsline {section}{\numberline {3}Analyzing Model Performance}{4}
+\contentsline {section}{\numberline {4}Model Prediction}{5}
